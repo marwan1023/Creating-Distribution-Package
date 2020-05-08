@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+DS Continuous distributions/Binomialdistribution.py
+DS Continuous distributions/Gaussiandistribution.py
+DS Continuous distributions/Generaldistribution.py
+DS Continuous distributions/__init__.py
+DS_Continuous_distributions.egg-info/PKG-INFO
+DS_Continuous_distributions.egg-info/SOURCES.txt
+DS_Continuous_distributions.egg-info/dependency_links.txt
+DS_Continuous_distributions.egg-info/not-zip-safe
+DS_Continuous_distributions.egg-info/top_level.txt
